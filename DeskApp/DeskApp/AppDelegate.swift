@@ -24,3 +24,22 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
 }
 
+/*
+ 桌面图标
+ 
+ 16X16
+ 
+ 32X32
+ 
+ 64X64
+ 
+ 128X128
+ 
+ 256X256
+ 
+ 512X512
+ 
+ 1024X1024
+ 
+ 
+ */
